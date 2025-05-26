@@ -4,6 +4,6 @@ export default function AdGenerator() {
   const [product, setProduct] = useState("");
   const [strategy, setStrategy] = useState("");
   const [ads, setAds] = useState([]);
-
+ // Teste de deploy
   // ... (restante do código que você já tem)
 }
